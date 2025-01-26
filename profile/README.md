@@ -1,6 +1,4 @@
-**Maxun is an open-source no-code web data extraction platform.**
-
-**It lets you train a robot in 2 minutes and scrape the web on auto-pilot.**
+**Maxun is an open-source no-code web data extraction platform. Train a robot in 2 minutes and scrape the web on auto-pilot.**
 
 23,000+ Hours Saved • 2M+ Rows Extracted • 8,000+ GitHub Stars
 
