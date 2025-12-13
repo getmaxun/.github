@@ -23,7 +23,7 @@ Maxun transforms websites into structured APIs, clean markdown for AI workflows,
    * **[Recorder Mode](https://docs.maxun.dev/robot/extract/robot-actions)** - Record your actions as you browse; Maxun turns them into a reusable extraction robot.
    * **[AI Mode](https://docs.maxun.dev/robot/extract/llm-extraction)** - Describe what you want in natural language and let LLM-powered extraction do the rest.
 
-2. **[Scrape](https://docs.maxun.dev/robot/scrape/scrape-robots)** – Convert full webpages into clean Markdown or HTML and capture screenshots. Ideal for AI workflows, agents, and document processing.
+2. **[Scrape](https://docs.maxun.dev/robot/scrape/scrape-robots)** – Convert full webpages into clean Markdown or HTML and capture screenshots. Ideal for AI workflows, agents, and document processing. No code required.
 
 3. **[SDK](https://docs.maxun.dev/sdk/sdk-overview)** – A complete developer toolkit for scraping, extraction, scheduling, and end-to-end data automation.
 
