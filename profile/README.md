@@ -6,7 +6,7 @@
             Maxun
         </a>
     </div>
-    Transform the Web into Structured Intelligence<br>
+    Transform The Web Into Structured Intelligence<br>
 </h2>
 <p align="center">
     <a href="https://app.maxun.dev/?ref=ghread"><b>Go To App</b></a> •
