@@ -20,16 +20,16 @@ Maxun transforms websites into structured APIs, clean markdown for AI workflows,
 
 1. **[Extract](https://docs.maxun.dev/category/extract)** – Emulate real user behavior and collect structured data from any website.
 
-   * **[Recorder Mode](https://docs.maxun.dev/robot/extract/robot-actions)** - Record your actions as you browse; Maxun turns them into a reusable extraction robot.
-   * **[AI Mode](https://docs.maxun.dev/robot/extract/llm-extraction)** - Describe what you want in natural language and let LLM-powered extraction do the rest.
+   * **[Recorder Mode](https://docs.maxun.dev/robot/extract/robot-actions)** – Record your actions as you browse; Maxun turns them into a reusable extraction robot.
+   * **[AI Mode](https://docs.maxun.dev/robot/extract/llm-extraction)** – Describe what you want in natural language and let LLM-powered extraction do the rest.
 
 2. **[Scrape](https://docs.maxun.dev/robot/scrape/scrape-robots)** – Convert full webpages into clean Markdown or HTML and capture screenshots. 
-3. **[Crawl](https://docs.maxun.dev/robot/crawl/crawl-introduction)** - Crawl entire websites and extract content from every relevant page, with full control over scope and discovery.
-4. **[Search](https://docs.maxun.dev/robot/search/search-introduction)** - Run automated web searches to discover or scrape results, with support for time-based filters.
+3. **[Crawl](https://docs.maxun.dev/robot/crawl/crawl-introduction)** – Crawl entire websites and extract content from every relevant page, with full control over scope and discovery.
+4. **[Search](https://docs.maxun.dev/robot/search/search-introduction)** – Run automated web searches to discover or scrape results, with support for time-based filters.
 
 5. **[SDK](https://docs.maxun.dev/sdk/sdk-overview)** – A complete developer toolkit for scraping, extraction, scheduling, and end-to-end data automation.
 
-<hr />
+<h2 />
 
 ####  400,000+ Hours Saved • 100,000,000+ Rows Extracted • 14,000+ GitHub Stars
 
