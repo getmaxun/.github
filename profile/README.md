@@ -6,7 +6,7 @@
             Maxun
         </a>
     </div>
-    Transform The Web Into Structured Intelligence<br>
+   Turn Any Website Into A Structured API<br>
 </h2>
 <p align="center">
     <a href="https://app.maxun.dev/?ref=ghread"><b>Go To App</b></a> •
@@ -14,7 +14,7 @@
     <a href="https://www.maxun.dev/?ref=ghread"><b>Website</b></a>
 </p>
 
-Maxun transforms websites into structured APIs, clean markdown for AI workflows, and production-ready data pipelines — all in minutes.
+Maxun is the unified open-source no-code platform for real-time web scraping, crawling, search and AI data extraction.
 
 ### Ecosystem
 
