@@ -12,9 +12,10 @@
     <a href="https://app.maxun.dev/?ref=ghread"><b>Go To App</b></a> •
     <a href="https://docs.maxun.dev/?ref=ghread"><b>Documentation</b></a> •
     <a href="https://www.maxun.dev/?ref=ghread"><b>Website</b></a>
+    <br />
+    <br />
+    <span> Maxun is the unified open-source no-code platform for real-time web scraping, crawling, search and AI data extraction.</span>
 </p>
-
-Maxun is the unified open-source no-code platform for real-time web scraping, crawling, search and AI data extraction.
 
 ### Ecosystem
 
