@@ -29,6 +29,7 @@
 4. **[Search](https://docs.maxun.dev/robot/search/search-introduction)** – Run automated web searches to discover or scrape results, with support for time-based filters.
 
 5. **[SDK](https://docs.maxun.dev/sdk/sdk-overview)** – A complete developer toolkit for scraping, extraction, scheduling, and end-to-end data automation.
+6. **[CLI](https://docs.maxun.dev/category/cli)** – Create robots, trigger runs, and retrieve extracted data from your terminal.
 
 <h2 />
 
