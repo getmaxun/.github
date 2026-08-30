@@ -28,8 +28,8 @@
 3. **[Crawl](https://docs.maxun.dev/robot/crawl/crawl-introduction)** – Crawl entire websites and extract content from every relevant page, with full control over scope and discovery.
 4. **[Search](https://docs.maxun.dev/robot/search/search-introduction)** – Run automated web searches to discover or scrape results, with support for time-based filters.
 5. **[Document Extraction & Parsing](https://docs.maxun.dev/robot/document)** – Extract and parse structured data from documents (PDF, CSV, XLSX, and DOCX).
-5. **[SDK](https://docs.maxun.dev/sdk/sdk-overview)** – A complete developer toolkit for scraping, extraction, scheduling, and end-to-end data automation.
-6. **[CLI](https://docs.maxun.dev/category/cli)** – Create robots, trigger runs, and retrieve extracted data from your terminal.
+6. **[SDK](https://docs.maxun.dev/sdk/sdk-overview)** – A complete developer toolkit for scraping, extraction, scheduling, and end-to-end data automation.
+7. **[CLI](https://docs.maxun.dev/category/cli)** – Create robots, trigger runs, and retrieve extracted data from your terminal.
 
 <h2 />
 
