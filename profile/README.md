@@ -1,7 +1,7 @@
 <h2 align="center">
     <div>
         <a href="https://www.maxun.dev/?ref=ghread">
-            <img src="https://www.maxun.dev/maxun_logo.png" width="70" />
+            <img src="https://www.maxun.dev/maxun_logo.png" width="50" />
             <br>
             Maxun
         </a>
