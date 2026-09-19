@@ -1,4 +1,4 @@
-<p align="center"> Maxun is the open-source web data platform for real-time web scraping, crawling, search, monitoring and AI data extraction.
+<p align="center"> Maxun is the open-source platform to scrape, crawl, search, monitor, and extract data from the web. 
 </p>
 <p align="center">
     <a href="https://app.maxun.dev/?ref=ghread"><b>Go To App</b></a> •
