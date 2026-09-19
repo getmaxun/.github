@@ -1,13 +1,5 @@
-<h2 align="center">
-    <div>
-        <a href="https://www.maxun.dev/?ref=ghread">
-            <img src="https://www.maxun.dev/maxun_logo.png" width="50" />
-            <br>
-            Maxun
-        </a>
-    </div>
-   Turn Any Website Into A Structured API<br>
-</h2>
+<p align="center"> Maxun is the open-source web data platform for real-time web scraping, crawling, search, monitoring and AI data extraction.
+</p>
 <p align="center">
     <a href="https://app.maxun.dev/?ref=ghread"><b>Go To App</b></a> •
     <a href="https://github.com/getmaxun/maxun"><b>Main Repository</b></a> •
