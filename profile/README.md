@@ -30,8 +30,3 @@
 5. **[Document Extraction & Parsing](https://docs.maxun.dev/robot/document)** – Extract and parse structured data from documents (PDF, CSV, XLSX, and DOCX).
 6. **[SDK](https://docs.maxun.dev/sdk/sdk-overview)** – A complete developer toolkit for scraping, extraction, scheduling, and end-to-end data automation.
 7. **[CLI](https://docs.maxun.dev/category/cli)** – Create robots, trigger runs, and retrieve extracted data from your terminal.
-
-<h2 />
-
-####  400,000+ Hours Saved • 100,000,000+ Rows Extracted • 14,000+ GitHub Stars
-
