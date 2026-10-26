@@ -10,11 +10,10 @@
 
 ### What Maxun Does
 
-- **[Extract](https://docs.maxun.dev/category/extract)** – Extract structured data from any website by emulating real user behavior.
-   * **[Recorder Mode](https://docs.maxun.dev/robot/extract/robot-actions)** – Record browser actions and turn them into reusable extraction robots.
-   * **[AI Mode](https://docs.maxun.dev/robot/extract/llm-extraction)** – Describe what you need in natural language and extract it with AI.
+- **[Extract](https://docs.maxun.dev/category/extract)** – Extract structured data from any website by ecording browser actions or describing the data you need with AI.
 - **[Scrape](https://docs.maxun.dev/robot/scrape/scrape-robots)** – Convert full webpages into Markdown, HTML and capture screenshots.
 - **[Crawl](https://docs.maxun.dev/robot/crawl/crawl-introduction)** – Crawl entire websites and extract content across pages.
+- **[Agent](https://docs.maxun.dev/robot/agent)** – Extract data from websites using natural-language prompts, with AI that autonomously discovers where the data lives and how to collect it.
 - **[Search](https://docs.maxun.dev/robot/search/search-introduction)** – Search the web and extract results with time-based filters.
 - **[Monitoring](https://docs.maxun.dev/robot/monitoring)** – Track websites over time, detect changes, and get notified when they occur.
 - **[Document Extraction & Parsing](https://docs.maxun.dev/robot/document)** – Extract and parse structured data from documents.
