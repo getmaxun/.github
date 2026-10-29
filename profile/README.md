@@ -10,7 +10,7 @@
 
 ### What Maxun Does
 
-- **[Extract](https://docs.maxun.dev/category/extract)** – Extract structured data from websites by recording browser actions or describing the data you need with AI.
+- **[Extract](https://docs.maxun.dev/category/extract)** – Extract structured data from websites by recording browser actions.
 - **[Scrape](https://docs.maxun.dev/robot/scrape/scrape-robots)** – Convert full webpages into Markdown, HTML and capture screenshots.
 - **[Crawl](https://docs.maxun.dev/robot/crawl/crawl-introduction)** – Crawl entire websites and extract content across pages.
 - **[Agent](https://docs.maxun.dev/robot/agent)** – Extract data from websites with AI that autonomously discovers where the data lives.
