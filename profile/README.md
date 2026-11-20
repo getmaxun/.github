@@ -2,12 +2,13 @@
 </p>
 <p align="center">
     <a href="https://app.maxun.dev/?ref=ghread"><b>Go To App</b></a> •
+    <a href="https://app.maxun.dev/?ref=ghread"><b>Playground</b></a> •
     <a href="https://github.com/getmaxun/maxun"><b>Repository</b></a> •
     <a href="https://docs.maxun.dev/?ref=ghread"><b>Documentation</b></a> •
     <a href="https://www.maxun.dev/?ref=ghread"><b>Website</b></a>
     <br />
 </p>
-
+https://maxun.dev/playground
 ### What Maxun Does
 
 - **[Extract](https://docs.maxun.dev/category/extract)** – Extract structured data from websites by recording browser actions.
