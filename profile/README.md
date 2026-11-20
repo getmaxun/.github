@@ -8,7 +8,7 @@
     <a href="https://www.maxun.dev/?ref=ghread"><b>Website</b></a>
     <br />
 </p>
-https://maxun.dev/playground
+
 ### What Maxun Does
 
 - **[Extract](https://docs.maxun.dev/category/extract)** – Extract structured data from websites by recording browser actions.
